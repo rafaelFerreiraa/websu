@@ -1,8 +1,7 @@
 # Some Pictures About this source
 
-![ ](https://media.discordapp.net/attachments/1068249895401689148/1068275355632287805/Screenshot_1.png?width=810&height=399)
-![ ](https://media.discordapp.net/attachments/1068249895401689148/1068275355955232798/Screenshot_2.png?width=810&height=400)
-![ ](https://media.discordapp.net/attachments/1068249895401689148/1068275356282392646/Screenshot_3.png?width=810&height=393)
-![ ](https://media.discordapp.net/attachments/1068249895401689148/1068275356571811970/Screenshot_5.png?width=810&height=396)
-![ ](https://media.discordapp.net/attachments/1068249895401689148/1068275356844425246/Screenshot_6.png?width=810&height=399)
-![ ](https://media.discordapp.net/attachments/1068249895401689148/1068275355317698682/Screenshot_7.png?width=810&height=388)
+![ ](https://cdn.discordapp.com/attachments/799738204634218516/1088498043835383890/image.png)
+![ ](https://cdn.discordapp.com/attachments/799738204634218516/1088498078547456150/image.png)
+![ ](https://cdn.discordapp.com/attachments/799738204634218516/1088498122587639889/image.png)
+![ ](https://cdn.discordapp.com/attachments/799738204634218516/1088498249075273798/image.png)
+![ ](https://cdn.discordapp.com/attachments/799738204634218516/1088498285909659748/image.png)
